@@ -1,0 +1,73 @@
+body {
+    background-color: #5f8a9e;
+    color: #2C4C5B;
+    font-family: 'Magic Retro', sans-serif;
+    text-transform: lowercase;
+}
+h1 {
+    text-align: center;
+    color: #2C4C5B;
+    font-family: 'Magic Retro', sans-serif;
+    font-size: 50px;
+}
+
+a:link, a:visited, a:active {
+    color: #2C4C5B;
+    text-decoration: none;
+}
+
+p {
+    font-size: 25px;
+}
+
+.everythingBelowTheHeaderLol {
+    font-size: 25px;
+    padding: 20px;
+}
+
+.forecast {
+    font-size: 25px;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.responses {
+    font-size: 20px;
+}
+
+#searchHistory {
+    font-size: 20px;
+}
+
+/* .search {
+} */
+
+.containerLeft {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+.firstDay, .secondDay, .thirdDay, .fourthDay, .fifthDay {
+    width: 19%;
+    float: left;
+    font-size: 15px;
+    border: 3px solid #2C4C5B;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+.openWeatherReq {
+    margin-top: 50px;
+    float: right;
+    font-size: 15px;
+}
+
+.farrahIsDumb {
+    color: #5f8a9e
+}

@@ -1,0 +1,3 @@
+// i need to figure out how to make the weather daily and not every 3 hours...
+// also need to figure out how to use the weather icons 
+// and how to save to local storage
